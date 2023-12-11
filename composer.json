@@ -2,7 +2,8 @@
     "name": "addresswise_extension/addresswise",
     "description": "Addresswise Extension",
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "addresswise_extension/addresswise": "1.0.*"
     },
     "type": "magento2-module",
     "version": "1.0.0",
@@ -17,6 +18,5 @@
             "AddressWiseExtension\\AddressWise\\": ""
         }
     },
-    "minimum-stability": "dev"
-
+    "minimum-stability": "stable"
 }
