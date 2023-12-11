@@ -1,0 +1,25 @@
+.af-popup {
+    position: absolute;
+    z-index: 999;
+    background: #fff;
+}
+.af-address-alert {
+    width: 400px;
+    color: red;
+    background-color: inherit;
+    border: 1px solid #2780e3;
+    padding: 1rem;
+}
+.af-option {
+    margin-bottom: 10px;
+    border: 1px solid #4b4b4b;
+}
+.af-option td {
+    padding: 10px;
+    border-bottom: solid 1px;
+    cursor: pointer;
+}
+.af-option td:hover {
+    background-color: #e2e2e2;
+}
+
