@@ -1,6 +1,6 @@
 {
-    "name": "addresswise_extension/addresswise",
-    "description": "Addresswise Extension",
+    "name": "addresswise/addresswise",
+    "description": "Addresswise",
     "require": {
         "php": ">=7.3"
     },
@@ -14,8 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "AddressWiseExtension\\AddressWise\\": ""
+            "AddressWise\\AddressWise\\": ""
         }
-    },
-    "minimum-stability": "stable"
+    }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace AddressWiseExtension\AddressWise\Controller\Index;
+namespace AddressWise\AddressWise\Controller\Index;
 
 use Magento\Framework\App\Action\Context;
 

@@ -1,14 +1,14 @@
 <?php
 
-namespace AddressWiseExtension\AddressWise\Block;
+namespace AddressWise\AddressWise\Block;
 
 use Magento\Framework\View\Element\Template;
 use Magento\Framework\View\Element\Template\Context;
 use Magento\Store\Model\StoreManagerInterface;
-use AddressWiseExtension\AddressWise\Helper\Data;
+use AddressWise\AddressWise\Helper\Data;
 
 /**
- * Customer block for handling AddresswiseExtension Addresswise functionality.
+ * Customer block for handling  Addresswise functionality.
  *
  * @SuppressWarnings(PHPMD.TooManyFields)
  */

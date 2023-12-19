@@ -1,11 +1,11 @@
 <?php
 
-namespace AddressWiseExtension\AddressWise\Controller\Index;
+namespace AddressWise\AddressWise\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\Context;
 use Magento\Framework\View\Result\PageFactory;
-use AddressWiseExtension\AddressWise\Helper\Data;
+use AddressWise\AddressWise\Helper\Data;
 
 /**
  * Class Display

@@ -1,6 +1,6 @@
 <?php
 
-/** @var \AddressWiseExtension\AddressWise\Block\Checkout $block */
+/** @var \AddressWise\AddressWise\Block\Checkout $block */
 
 $clientToken = $block->getClientToken();
 $isEnabled = $block->isEnabled(); // Store the isEnabled value in a variable
@@ -15,7 +15,7 @@ $isEnabled = $block->isEnabled(); // Store the isEnabled value in a variable
     <script type="text/x-magento-init">
         {
             "*": {
-                "AddressWiseExtension_AddressWise/js/addresswise": {
+                "AddressWise_AddressWise/js/addresswise": {
                     "client_token": "<?= $block->escapeJs($clientToken); ?>",
                     "enabled": <?= ($isEnabled ? 'true' : 'false'); ?>
                 }

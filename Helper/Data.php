@@ -1,6 +1,6 @@
 <?php
 
-namespace AddressWiseExtension\AddressWise\Helper;
+namespace AddressWise\AddressWise\Helper;
 
 use Magento\Framework\App\Helper\AbstractHelper;
 use Magento\Framework\App\Helper\Context;
@@ -9,7 +9,7 @@ use Magento\Store\Model\ScopeInterface;
 /**
  * Class Data
  *
- * @package AddressWiseExtension\AddressWise\Helper
+ * @package AddressWise\AddressWise\Helper
  */
 /**
  * Class Data

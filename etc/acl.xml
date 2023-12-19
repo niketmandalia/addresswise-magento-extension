@@ -6,7 +6,7 @@
                 <resource id="Magento_Backend::stores">
                     <resource id="Magento_Backend::stores_settings">
                         <resource id="Magento_Config::config">
-                            <resource id="AddressWiseExtension_AddressWise::config" title="AddressWiseExtension AddressWise Section"/>
+                            <resource id="AddressWise_AddressWise::config" title="AddressWise Section"/>
                         </resource>
                     </resource>
                 </resource>

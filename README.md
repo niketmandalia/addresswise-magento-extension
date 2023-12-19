@@ -13,12 +13,12 @@ The module can be installed one way:
 To install the module via Composer, from the root directory of your Magento installation:
 
 
-**composer require addresswise_extension/addresswise**
+**composer require addresswise/addresswise**
 
 This will automatically fetch the latest compatible version of the module available to your Magento installation. From the root directory of your Magento installation:
 
 
-**bin/magento module:enable addresswise_extension/addresswise**
+**bin/magento module:enable addresswise/addresswise**
 
 **bin/magento setup:upgrade**
 
@@ -30,7 +30,7 @@ This will automatically fetch the latest compatible version of the module availa
 
 ## 2. Configuring the module
 
-The module's settings are controlled within `Stores -> Configuration -> AddressWiseExtension -> AddressWise`.
+The module's settings are controlled within `Stores -> Configuration -> AddressWise -> AddressWise`.
 
 > Most settings in Magento 2 are guarded with sensible defaults. To customise settings,  you'll need to uncheck the **use system value** for any settings you would like to customise.
 

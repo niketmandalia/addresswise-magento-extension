@@ -1,7 +1,7 @@
 var config = {
     map: {
         '*': {
-            addresswise: 'AddressWiseExtension_AddressWise/js/addresswise',
+            addresswise: 'AddressWise_AddressWise/js/addresswise',
         }
     }
 };
